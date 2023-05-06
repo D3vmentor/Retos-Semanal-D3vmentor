@@ -9,3 +9,6 @@ Además, durante esta semana, Danilo y Alexander construyeron manualmente el mé
 - Silfredo Ibarra: Desarrollador colombiano con amplia experiencia en el desarrollo de aplicaciones web y móviles, su perfil de git es silfredo11 y su correo electrónico es silfredoibarra@silfredoibarra.com.
 
 En general, esta semana fue muy productiva en términos de mejorar las habilidades de programación de los participantes, ya que se enfocó en el uso práctico de métodos de los arrays y en la comprensión de su funcionamiento interno.
+
+**Danilo Peralta - Peruano - git: danilopb - danilo_peralta4@hotmail.com**
+**Alexander Rincon - Colombiano - Git: 9alex12 alexander12rs@gmail.com** 
